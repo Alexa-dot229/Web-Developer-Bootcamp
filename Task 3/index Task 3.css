@@ -1,0 +1,70 @@
+html {font-family: "Aptos", sans-serif;
+      background-color: bisque;}
+h1 {color: #07330d;
+    font-size: 1.5em;
+    margin: 10px;
+    padding: 10px;}
+.menu{margin: 0;
+    padding: 0;
+    list-style: none;
+    font: 1em "Aptos", sans-serif;
+    display: flex;
+    text-align: center;}
+.menu a{
+    padding: 10px 15px;
+    display: block;
+    margin: auto;}
+p{color:rgb(119, 43, 2)}
+#Profile{text-align: center;
+        font-size: large;
+        margin: 0;
+        padding: 0;}
+#Bio{text-align: center;
+    font-size: large;
+    margin: 0;
+    padding: 0;}
+#Skills{text-align: center;
+        font-size: large;
+        margin: 0;
+        padding: 0;}
+#Education{text-align: center;
+            font-size: large;
+            margin: 0;
+            padding: 0;}
+#WorkExperience{text-align: center;
+                font-size: large;
+                margin: 0;
+                padding: 0;}
+#Contactdetails{text-align: center;
+                font-size: large;
+                margin: 0;
+                padding: 0;}
+ul{list-style-position: inside;}
+.text{width:700px;
+    margin: 0 auto;
+    padding: 10px;}
+a {
+    text-decoration: none;
+}
+a:link {
+    font-family:cursive;
+    color: #d316d0e4;
+}
+
+a:visited {
+    color: #2e073ee4;
+}
+
+a:focus {
+    outline-color: black;
+    background: #f2ee0e;
+}
+
+a:hover {
+    color: #15d9d9;
+}
+
+a:active {
+    background: #1aff00;
+    color:red;
+}
